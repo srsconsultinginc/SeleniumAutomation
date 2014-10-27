@@ -1,4 +1,4 @@
-CiscoSeleniumAutomation
+SeleniumAutomation
 =======================
 
 Automation scripts using Selenium
